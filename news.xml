@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<news>
+    <text>Secret alien information leaked by scientists</text>
+
+    <fakeWords>
+        <word>alien</word>
+        <word>secret</word>
+        <word>rumor</word>
+        <word>fake</word>
+    </fakeWords>
+
+    <result>FAKE NEWS</result>
+
+</news>

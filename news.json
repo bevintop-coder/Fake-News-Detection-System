@@ -1,0 +1,12 @@
+{
+  "news": {
+    "text": "Secret alien information leaked by scientists",
+    "fakeWords": [
+      "alien",
+      "secret",
+      "rumor",
+      "fake"
+    ],
+    "result": "FAKE NEWS"
+  }
+}
