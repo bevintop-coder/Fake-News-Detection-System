@@ -1,0 +1,38 @@
+Fake-News-Detection-System/
+│
+├── 📁 python-ml/
+│   ├── model.py
+│   ├── train.py
+│   ├── preprocess.py
+│   ├── predict.py
+│   ├── vectorizer.pkl
+│   ├── news_model.pkl
+│   └── requirements.txt
+│
+├── 📁 java-version/
+│   ├── FakeNewsDetector.java
+│   ├── NewsArticle.java
+│   └── README.md
+│
+├── 📁 frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+├── 📁 dataset/
+│   ├── fake_news.csv
+│   └── real_news.csv
+│
+├── 📁 screenshots/
+│   ├── home.png
+│   ├── real-result.png
+│   └── fake-result.png
+│
+├── 📁 docs/
+│   ├── architecture.png
+│   └── project-report.pdf
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
