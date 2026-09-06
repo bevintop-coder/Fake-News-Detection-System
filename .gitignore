@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+
+# Python Packaging
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Machine Learning / Data
+*.csv
+*.xlsx
+*.json
+*.joblib
+*.pkl
+
+# Logs
+*.log
+
+# Testing / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Java
+*.class
+out/
+target/
+
+# Temporary Files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Project-specific
+README.md
+CONTRIBUTING.md
+LICENSE
+
+# Git
+.git/
