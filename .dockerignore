@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Git
+.git/
+.gitignore
+.github/
+
+# IDE
+.vscode/
+.idea/
+.gemini/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python environment/config
+.env
+.env.*
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Project documentation
+README.md
+LICENSE
+CONTRIBUTING.md
+
+# Model/data files not needed during Docker build
+*.csv
+*.xlsx
+*.xls
+
+# Frontend development files
+node_modules/
+dist/
+build/
+
+# Demo/media files
+frontend/demo-animation.webp
