@@ -354,6 +354,6 @@ MIT License
 
 **Bevinto Paul**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/bevintop-coder
 
 Built with AI, Machine Learning, and code to fight misinformation 📰🤖
